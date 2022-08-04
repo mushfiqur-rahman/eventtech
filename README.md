@@ -1,6 +1,6 @@
 # eventtech
 
-clone https://github.com/mushfiqur-rahman/eventtech.git
+git clone https://github.com/mushfiqur-rahman/eventtech.git
 ````
 cd eventtech
 ````
