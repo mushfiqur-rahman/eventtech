@@ -53,7 +53,7 @@ const About = () => {
                     <div
                         className='col-span-2 md:h-[75%] shadow-xl shadow-gray-400 rounded-xl flex items-center p-2'>
                         <iframe
-                            src="https://www.youtube.com/embed/8O3MJ0PI8R8"
+                            src="https://www.youtube.com/embed/k9w1tscS9ZA"
 
                             allowFullScreen
                             className="w-screen h-full"

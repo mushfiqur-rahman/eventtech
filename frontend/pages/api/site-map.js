@@ -5,8 +5,14 @@ export default async (req, res) => {
   // An array with your pages.
   const links = [
     { url: "/", changefreq: "daily", priority: 1 },
-    { url: "/gallery", changefreq: "daily", priority: 1 },
-    { url: "/contact", changefreq: "daily", priority: 1 },
+    { url: "/gallery", changefreq: "daily", priority: 0.8 },
+    { url: "/contact", changefreq: "daily", priority: 0.8 },
+    { url: "/GraphicsDesign", changefreq: "daily", priority: 0.7 },
+    { url: "/DigitalMarketing", changefreq: "daily", priority: 0.7 },
+    { url: "/WebDevelopment", changefreq: "daily", priority: 0.7 },
+    { url: "/CallCenter", changefreq: "daily", priority: 0.7 },
+    { url: "/DataScience", changefreq: "daily", priority: 0.7 },
+    { url: "/robotics", changefreq: "daily", priority: 0.7 },
   ]
 
   // Create a stream to write to

@@ -77,14 +77,14 @@ const Navbar = () => {
                             Services
                         </li>
                     </Link>
-                    <Link href="/#portfolio">
-                        <li className="ml-10 font-medium uppercase hover:text-indigo-600">
-                            Portfolio
-                        </li>
-                    </Link>
                     <Link href="/#SkillDevelopment">
                         <li className="ml-10 font-medium uppercase hover:text-indigo-600">
                             Skill Development
+                        </li>
+                    </Link>
+                    <Link href="/#clients">
+                        <li className="ml-10 font-medium uppercase hover:text-indigo-600">
+                            Clients
                         </li>
                     </Link>
                     <Link href="/gallery">
@@ -138,16 +138,16 @@ const Navbar = () => {
                                     Services
                                 </li>
                             </Link>
-                            <Link href='/#portfolio'>
-                                <li onClick={() => setNav(false)}
-                                    className='py-4 font-medium hover:text-indigo-600'>
-                                    Portfolio
-                                </li>
-                            </Link>
                             <Link href='/#SkillDevelopment'>
                                 <li onClick={() => setNav(false)}
                                     className='py-4 font-medium hover:text-indigo-600'>
                                     Skill Development
+                                </li>
+                            </Link>
+                            <Link href='/#clients'>
+                                <li onClick={() => setNav(false)}
+                                    className='py-4 font-medium hover:text-indigo-600'>
+                                    Clients
                                 </li>
                             </Link>
                             <Link href='/gallery'>

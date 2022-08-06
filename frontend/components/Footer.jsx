@@ -76,11 +76,6 @@ function Footer() {
                         <li className=" text-md pb-2 font-semibold hover:text-blue-600 cursor-pointer">
                             Apps Development
                         </li>
-                    </ul>
-                </div>
-                <div className="p-5">
-                    <ul>
-                        {/*<p className="font-bold text-2xl pb-4">Support</p>*/}
                         <li className=" text-md pb-2 font-semibold hover:text-blue-600 cursor-pointer">
                             Event Management
                         </li>
@@ -90,12 +85,39 @@ function Footer() {
                         <li className="text-md pb-2 font-semibold hover:text-blue-600 cursor-pointer">
                             Robotics
                         </li>
-                        {/*<li className=" text-md pb-2 font-semibold hover:text-blue-600 cursor-pointer">*/}
-                        {/*    Downloads & Resources*/}
-                        {/*</li>*/}
-                        {/*<li className=" text-md pb-2 font-semibold hover:text-blue-600 cursor-pointer">*/}
-                        {/*    Videos*/}
-                        {/*</li>*/}
+                    </ul>
+                </div>
+                <div className="p-5">
+                    <ul>
+                        <p className="font-bold text-2xl pb-4">Skill Development</p>
+                        <Link href='/GraphicsDesign'><li className=" text-md pb-2 font-semibold hover:text-blue-600 cursor-pointer">
+                            Graphics Design
+                        </li></Link>
+                        <Link href='/DigitalMarketing'>
+                            <li className=" text-md pb-2 font-semibold hover:text-blue-600 cursor-pointer">
+                            Digital Marketing
+                        </li>
+                        </Link>
+                        <Link href='/WebDevelopment'>
+                        <li className="text-md pb-2 font-semibold hover:text-blue-600 cursor-pointer">
+                            Web Design & Development
+                        </li>
+                        </Link>
+                        <Link href='/CallCenter'>
+                        <li className=" text-md pb-2 font-semibold hover:text-blue-600 cursor-pointer">
+                            Call Center Support
+                        </li>
+                        </Link>
+                        <Link href='/DataScience'>
+                        <li className=" text-md pb-2 font-semibold hover:text-blue-600 cursor-pointer">
+                            Data Science & Machine Learning
+                        </li>
+                        </Link>
+                        <Link href='/robotics'>
+                        <li className=" text-md pb-2 font-semibold hover:text-blue-600 cursor-pointer">
+                            Robotics
+                        </li>
+                        </Link>
                     </ul>
                 </div>
             </div>

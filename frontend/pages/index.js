@@ -2,7 +2,7 @@ import Head from 'next/head'
 import Main from "../components/Main";
 import About from "../components/About";
 import Services from "../components/Services";
-import Portfolio from "../components/Portfolio";
+import Portfolio from "../components/Client";
 import Testimonial from "../components/SkillDevelopment";
 import React from "react";
 
@@ -22,8 +22,8 @@ export default function Home() {
         <Main/>
         <About />
         <Services/>
-        <Portfolio />
         <Testimonial/>
+        <Portfolio />
     </div>
   )
 }
