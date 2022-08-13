@@ -1,6 +1,8 @@
 import React from 'react'
+import dynamic from "next/dynamic";
 
 const About = () => {
+    const ReactPlayer = dynamic(() => import("react-player/lazy"), { ssr: false });
     return (
         <div id='about' className='w-full md:h-screen p-2 flex items-center py-16'>
             <div className="w-full h-4/5">
@@ -52,12 +54,7 @@ const About = () => {
                     </div>
                     <div
                         className='col-span-2 md:h-[75%] shadow-xl shadow-gray-400 rounded-xl flex items-center p-2'>
-                        <iframe
-                            src="https://www.youtube.com/embed/k9w1tscS9ZA"
-
-                            allowFullScreen
-                            className="w-screen h-full"
-                        ></iframe>
+                        <ReactPlayer url='https://www.youtube.com/watch?v=k9w1tscS9ZA'/>
                     </div>
                 </div>
             </div>

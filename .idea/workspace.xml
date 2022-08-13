@@ -4,44 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d465cd8-2337-43e1-a6f5-0603e1f7756e" name="Changes" comment="Project run command">
-      <change afterPath="$PROJECT_DIR$/frontend/components/Client.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/pages/CallCenter.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/pages/DataScience.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/pages/DigitalMarketing.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/pages/GraphicsDesign.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/pages/WebDevelopment.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/pages/robotics.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/assets/clients/Primary.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/assets/clients/benapole-paurashava.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/assets/clients/custom-house-benapole.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/assets/clients/judge-court.jpg" afterDir="false" />
+    <list default="true" id="6d465cd8-2337-43e1-a6f5-0603e1f7756e" name="Changes" comment="Client section added">
+      <change afterPath="$PROJECT_DIR$/frontend/public/assets/digital-marketing.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/fonts/Montserrat.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.idea/frontend.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.idea/jsLibraryMappings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/components/About.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/About.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/components/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Footer.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/components/Main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Main.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Navbar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/Portfolio.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/SkillDevelopment.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/SkillDevelopment.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/data/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/data/clients.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/Services.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Services.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/components/data/skillData.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/data/skillData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/pages/api/site-map.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/api/site-map.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/assets/portfolio/mob-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/assets/portfolio/mob-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/assets/portfolio/mob-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/assets/portfolio/mob-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/assets/portfolio/web-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/assets/portfolio/web-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/assets/portfolio/web-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/assets/portfolio/web-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/pages/CallCenter.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/pages/DataScience.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/DataScience.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/pages/DigitalMarketing.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/pages/GraphicsDesign.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/pages/WebDevelopment.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/pages/_document.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/pages/robotics.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/assets/digital-marketing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/assets/skill-develop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/styles/globals.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,20 +48,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/PROJECT/eventtech&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/PROJECT/eventtech",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PROJECT\eventtech\frontend\public\fonts" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -92,7 +81,14 @@
       <workItem from="1659613210194" duration="9590000" />
       <workItem from="1659747486575" duration="12599000" />
       <workItem from="1659779106875" duration="888000" />
-      <workItem from="1659786276645" duration="3191000" />
+      <workItem from="1659786276645" duration="3336000" />
+      <workItem from="1659881902971" duration="1363000" />
+      <workItem from="1659888631611" duration="4716000" />
+      <workItem from="1659930546145" duration="59000" />
+      <workItem from="1659948035994" duration="14000" />
+      <workItem from="1659949725317" duration="685000" />
+      <workItem from="1660293240400" duration="4027000" />
+      <workItem from="1660377753016" duration="3554000" />
     </task>
     <task id="LOCAL-00001" summary="Project run command">
       <created>1659609974864</created>
@@ -108,7 +104,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659610997293</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Client section added">
+      <created>1659790191122</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659790191122</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Client section added">
+      <created>1659790266306</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659790266306</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +138,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Project run command" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project run command" />
+    <MESSAGE value="Client section added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Client section added" />
   </component>
 </project>

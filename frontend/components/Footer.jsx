@@ -127,7 +127,8 @@ function Footer() {
                     href="https://www.eventtechbd.com/"><a>Eventtech</a></Link> |
                     Build with by{" "}
                     <span className="hover:text-blue-600 cursor-pointer">
-						<Link href="https://www.linkedin.com/in/mushfiqurrahmanshaon/"><a>ABC</a></Link>
+						<Link href="https://www.linkedin.com/in/mushfiqurrahmanshaon/"><a target='_blank'
+                               rel='noreferrer'>ABC</a></Link>
 					</span>
                 </h1>
             </div>
