@@ -4,32 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d465cd8-2337-43e1-a6f5-0603e1f7756e" name="Changes" comment="Client section added">
-      <change afterPath="$PROJECT_DIR$/frontend/public/assets/digital-marketing.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/fonts/Montserrat.woff2" afterDir="false" />
+    <list default="true" id="6d465cd8-2337-43e1-a6f5-0603e1f7756e" name="Changes" comment="final updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/About.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/About.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Footer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/Main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Main.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/Services.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Services.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/data/skillData.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/data/skillData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/components/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Navbar.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/pages/CallCenter.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/pages/DataScience.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/DataScience.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/pages/DigitalMarketing.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/pages/GraphicsDesign.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/pages/WebDevelopment.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/pages/_document.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/pages/robotics.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/assets/digital-marketing.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/assets/skill-develop.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/styles/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/pages/api/site-map.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/api/site-map.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,21 +40,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/PROJECT/eventtech",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.appearance"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PROJECT/eventtech&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\PROJECT\eventtech\frontend\public\fonts" />
@@ -88,7 +80,10 @@
       <workItem from="1659948035994" duration="14000" />
       <workItem from="1659949725317" duration="685000" />
       <workItem from="1660293240400" duration="4027000" />
-      <workItem from="1660377753016" duration="3554000" />
+      <workItem from="1660377753016" duration="5987000" />
+      <workItem from="1660448379300" duration="39000" />
+      <workItem from="1660707414823" duration="19000" />
+      <workItem from="1660869925212" duration="1727000" />
     </task>
     <task id="LOCAL-00001" summary="Project run command">
       <created>1659609974864</created>
@@ -118,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659790266306</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="final updated">
+      <created>1660381909510</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660381909510</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +141,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Project run command" />
     <MESSAGE value="Client section added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Client section added" />
+    <MESSAGE value="final updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="final updated" />
   </component>
 </project>
