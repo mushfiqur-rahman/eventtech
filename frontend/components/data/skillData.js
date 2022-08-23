@@ -2,7 +2,7 @@ export const data=[
     {
         id: 1,
         name: 'Data Science & Machine Learning',
-        image: '/assets/course/dataSch.png',
+        image: '/assets/course/dataSch.webp',
         liveUrl: "/DataScience",
     },
     {
@@ -14,7 +14,7 @@ export const data=[
     {
         id: 3,
         name: 'Digital Marketing',
-        image: '/assets/course/digitalMarketing.png',
+        image: '/assets/course/digitalMarketing.webp',
         liveUrl: "/",
     },
     {

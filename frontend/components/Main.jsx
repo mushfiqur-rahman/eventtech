@@ -4,9 +4,9 @@ import {Swiper, SwiperSlide} from 'swiper/react';
 import SwiperCore, {Autoplay} from "swiper";
 import ItPark from '../public/assets/it-park.webp';
 import DigitalMarketing from '../public/assets/digital-marketing.webp';
-import Robotics from '../public/assets/robotics.jpg';
+import Robotics from '../public/assets/robotics.webp';
 import SkillDevelopment from '../public/assets/skill-develop.webp';
-import BlockChain from '../public/assets/block-chain.jpg';
+import BlockChain from '../public/assets/block-chain.webp';
 
 // Import Swiper styles
 import 'swiper/css';
@@ -22,7 +22,7 @@ const Main = () => {
                         loop={true}
                         pagination={{clickable: true}}
                         autoplay={{
-                            delay: 3000,
+                            delay: 5000,
                             disableOnInteraction: false
                         }}
                     >

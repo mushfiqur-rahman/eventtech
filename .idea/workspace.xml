@@ -6,10 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6d465cd8-2337-43e1-a6f5-0603e1f7756e" name="Changes" comment="final updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/components/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/components/Navbar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/pages/api/site-map.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/api/site-map.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/assets/contact.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/assets/contact.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/assets/gallery/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/assets/gallery/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/assets/gallery/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/assets/gallery/5.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +82,10 @@
       <workItem from="1660377753016" duration="5987000" />
       <workItem from="1660448379300" duration="39000" />
       <workItem from="1660707414823" duration="19000" />
-      <workItem from="1660869925212" duration="1727000" />
+      <workItem from="1660869925212" duration="2689000" />
+      <workItem from="1660873694102" duration="5000" />
+      <workItem from="1660874424570" duration="240000" />
+      <workItem from="1660956352885" duration="63000" />
     </task>
     <task id="LOCAL-00001" summary="Project run command">
       <created>1659609974864</created>
@@ -120,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660381909510</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="final updated">
+      <created>1660872411545</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1660872411545</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
