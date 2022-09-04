@@ -6,7 +6,14 @@ export default async (req, res) => {
   const links = [
     { url: "/", changefreq: "daily", priority: 1 },
     { url: "/gallery", changefreq: "daily", priority: 0.8 },
-    { url: "/DataScience", changefreq: "daily", priority: 0.7 },
+    { url: "/dataScience", changefreq: "daily", priority: 0.7 },
+    { url: "/graphicsDesign", changefreq: "daily", priority: 0.7 },
+    { url: "/digitalMarketing", changefreq: "daily", priority: 0.7 },
+    { url: "/webDevelopment", changefreq: "daily", priority: 0.7 },
+    { url: "/callCenterSupport", changefreq: "daily", priority: 0.7 },
+    { url: "/callCenterSupport", changefreq: "daily", priority: 0.7 },
+    { url: "/robotics", changefreq: "daily", priority: 0.7 },
+    { url: "/contact", changefreq: "daily", priority: 0.7 },
   ]
 
   // Create a stream to write to

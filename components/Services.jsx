@@ -6,7 +6,7 @@ import CloudImg from '../public/assets/service/cloud.webp';
 import GraphicsImg from '../public/assets/service/graphics.webp';
 import WebImg from '../public/assets/service/web.webp';
 import MobImg from '../public/assets/service/apps.webp';
-import EventImg from '../public/assets/service/event.webp';
+import IotImg from '../public/assets/service/iot.webp';
 import AiImg from '../public/assets/service/ai.webp';
 import RobImg from '../public/assets/service/robot.webp';
 
@@ -104,14 +104,14 @@ const Services = () => {
                         <div className='grid grid-cols-2 gap-4 justify-center items-center'>
                             <div className='m-auto'>
                                 <Image
-                                    src={EventImg}
+                                    src={IotImg}
                                     alt='/'
-                                    width={64}
+                                    width={100}
                                     height={64}
                                 />
                             </div>
                             <div className='flex flex-col items-center justify-center'>
-                                <h3>Event Management</h3>
+                                <h3>Internet Of Things</h3>
                             </div>
                         </div>
                     </div>

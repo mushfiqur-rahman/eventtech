@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import ContactImg from '../public/assets/contact.jpg';
+import ContactImg from '../public/assets/contact.webp';
 
 const contact = () => {
     return (
@@ -74,7 +74,7 @@ const contact = () => {
                                             className="border-2 rounded-lg p-3 flex border-gray-300 rows-10"></textarea>
                                     </div>
                                     <button
-                                        className="w-full p-4 text-gray-100 mt-4 shadow-xl shadow-gray-400 rounded-xl uppercase bg-gradient-to-r from-[#5651e5] to-[#709dff] text-white">
+                                        className="w-full p-4 mt-4 shadow-xl shadow-gray-400 rounded-xl uppercase bg-gradient-to-r from-[#5651e5] to-[#709dff] text-white">
                                         Send Message
                                     </button>
                                 </form>

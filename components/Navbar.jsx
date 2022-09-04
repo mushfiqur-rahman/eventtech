@@ -14,7 +14,7 @@ const Navbar = () => {
     const [shadow, setShadow] = useState(false);
     // const [navBg, setNavBg] = useState('#FFFFFF')
     const [linkColor] = useState('#FE8D28')
-    const router = useRouter()
+    // const router = useRouter()
 
 
     const handleNav = () => {
