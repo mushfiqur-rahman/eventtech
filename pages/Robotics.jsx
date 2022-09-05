@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 import Link from "next/link";
 
 const robotics = () => {
@@ -9,17 +9,17 @@ const robotics = () => {
       </div>
       <div className="max-w-[1240px] mx-auto px-2 py-16">
         <p className="text-xl tracking-widest uppercase font-semibold">
-        Call Center Support
+          Call Center Support
         </p>
         <p>Course Outline</p>
       </div>
       <div className="max-w-[1240px] mx-auto px-2 py-2">
-      <Link href="/#SkillDevelopment">
+        <Link href="/#SkillDevelopment">
           <p className="underline cursor-pointer">Back</p>
         </Link>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default robotics
+export default robotics;

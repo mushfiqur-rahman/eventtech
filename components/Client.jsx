@@ -40,12 +40,12 @@ const Client = () => {
                         {client.map((item, index) => (
                             <div key={index}>
                                 <SwiperSlide>
-                                    <div>
-                                        <Image src={item.image} alt={item.name} width={250} height={250}
-                                           className='object-center rounded-t-lg'/>
+                                    <div className=" ml-2">
+                                        <Image src={item.image} alt={item.name} width={100} height={100}
+                                           className=' rounded-t-lg'/>
                                     </div>
                                     <div>
-                                        <p className='items-center'>{item.name}</p>
+                                        <p>{item.name}</p>
                                     </div>
                                 </SwiperSlide>
                             </div>
