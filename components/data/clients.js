@@ -17,7 +17,7 @@ export const data=[
     {
         id: 4,
         name: 'Satkhira Judge Court',
-        image: '/assets/clients/judge-court.jpg',
+        image: '/assets/clients/judge-court.png',
     },
     {
         id: 5,
