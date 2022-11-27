@@ -24,7 +24,7 @@ const Client = () => {
                 </div>
                 <div className='object-center items-center font-semibold'>
                     <Swiper
-                        slidesPerView={4}
+                        slidesPerView={5}
                         spaceBetween={30}
                         loop={true}
                         pagination={{
@@ -40,13 +40,13 @@ const Client = () => {
                         {client.map((item, index) => (
                             <div key={index}>
                                 <SwiperSlide>
-                                    <div className=" ml-2">
+                                    <div>
                                         <Image src={item.image} alt={item.name} width={100} height={100}
                                            className=' rounded-t-lg'/>
                                     </div>
-                                    <div>
+                                    {/* <div>
                                         <p>{item.name}</p>
-                                    </div>
+                                    </div> */}
                                 </SwiperSlide>
                             </div>
                         ))}
