@@ -16,7 +16,7 @@ const Main = () => {
     SwiperCore.use([Autoplay])
 
     return (
-        <div className="">
+        <div className="py-[81px]">
                     <Swiper
                         slidesPerView={1}
                         loop={true}

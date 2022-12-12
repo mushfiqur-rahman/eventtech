@@ -41,7 +41,7 @@ const Client = () => {
                             <div key={index}>
                                 <SwiperSlide>
                                     <div>
-                                        <Image src={item.image} alt={item.name} width={250} height={250}
+                                        <Image src={item.image} alt={item.name}
                                            className='object-center rounded-t-lg'/>
                                     </div>
                                     <div>
