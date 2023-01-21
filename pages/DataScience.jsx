@@ -15,71 +15,73 @@ const dataScience = () => {
       </div>
       <div className="max-w-[1240px] mx-auto px-2 py-16 grid lg:grid-cols-2 gap-16 pl-10">
         <div className="basis-1/2">
-          <p className="font-semibold">Data Science</p>
+          <p className="font-semibold text-blue-700 mb-5 text-2xl uppercase">Data Science</p>
+          <hr className="border-2 border-b-gray-400 "/>
           <ul className="list-inside list-disc">
             <li>
               Python basic
               <ul>
-                <li>- Why program, an intro</li>
-                <li>- variables, expressions and satements</li>
-                <li>- conditional execution</li>
-                <li>- functions</li>
-                <li>- loops and iteration</li>
-                <li>- strings</li>
-                <li>- File handling</li>
-                <li>- lists</li>
-                <li>- dictionaries</li>
-                <li>- tuples</li>
+                <li className="bg-gray-300 hover:bg-gray-100 rounded-lg my-3 p-2 items-center cursor-pointer">- Why program, an intro</li>
+                <li className="bg-gray-300 hover:bg-gray-100 rounded-lg my-3 p-2 items-center cursor-pointer">- variables, expressions and satements</li>
+                <li className="bg-gray-300 hover:bg-gray-100 rounded-lg my-3 p-2 items-center cursor-pointer">- conditional execution</li>
+                <li className="bg-gray-300 hover:bg-gray-100 rounded-lg my-3 p-2 items-center cursor-pointer">- functions</li>
+                <li className="bg-gray-300 hover:bg-gray-100 rounded-lg my-3 p-2 items-center cursor-pointer">- loops and iteration</li>
+                <li className="bg-gray-300 hover:bg-gray-100 rounded-lg my-3 p-2 items-center cursor-pointer">- strings</li>
+                <li className="bg-gray-300 hover:bg-gray-100 rounded-lg my-3 p-2 items-center cursor-pointer">- File handling</li>
+                <li className="bg-gray-300 hover:bg-gray-100 rounded-lg my-3 p-2 items-center cursor-pointer">- lists</li>
+                <li className="bg-gray-300 hover:bg-gray-100 rounded-lg my-3 p-2 items-center cursor-pointer">- dictionaries</li>
+                <li className="bg-gray-300 hover:bg-gray-100 rounded-lg my-3 p-2 items-center cursor-pointer">- tuples</li>
               </ul>
             </li>
             <li>
               Advanced python:
               <ul>
-                <li>- Object Oriented Programming with python</li>
-                <li>- Database with python</li>
-                <li>- REST API with python</li>
+                <li className="bg-gray-300 hover:bg-gray-100 rounded-lg my-3 p-2 items-center cursor-pointer">- Object Oriented Programming with python</li>
+                <li className="bg-gray-300 hover:bg-gray-100 rounded-lg my-3 p-2 items-center cursor-pointer">- Database with python</li>
+                <li className="bg-gray-300 hover:bg-gray-100 rounded-lg my-3 p-2 items-center cursor-pointer">- REST API with python</li>
               </ul>
             </li>
             <li>
               Data analysis and visualization:
               <ul>
-                <li>- Numpy</li>
-                <li>- Pandas</li>
-                <li>- Matplotlib</li>
-                <li>- Seaborn</li>
-                <li>- Case study</li>
+                <li className="bg-gray-300 hover:bg-gray-100 rounded-lg my-3 p-2 items-center cursor-pointer">- Numpy</li>
+                <li className="bg-gray-300 hover:bg-gray-100 rounded-lg my-3 p-2 items-center cursor-pointer">- Pandas</li>
+                <li className="bg-gray-300 hover:bg-gray-100 rounded-lg my-3 p-2 items-center cursor-pointer">- Matplotlib</li>
+                <li className="bg-gray-300 hover:bg-gray-100 rounded-lg my-3 p-2 items-center cursor-pointer">- Seaborn</li>
+                <li className="bg-gray-300 hover:bg-gray-100 rounded-lg my-3 p-2 items-center cursor-pointer">- Case study</li>
               </ul>
             </li>
           </ul>
         </div>
         <div className="basis-1/2">
-          <p className="font-semibold">Machine learning</p>
+          <p className="font-semibold text-blue-700 mb-5 text-2xl uppercase">Machine learning</p>
+          <hr className="border-2 border-b-gray-400 "/>
           <ul className="list-inside list-disc">
             <li>
               Supervised learning:
               <ul>
-                <li>- Linear regression</li>
-                <li>- Polynomial regression</li>
-                <li>- Logistic regression</li>
-                <li>- Regularization</li>
+                <li className="bg-gray-300 hover:bg-gray-100 rounded-lg my-3 p-2 items-center cursor-pointer">- Linear regression</li>
+                <li className="bg-gray-300 hover:bg-gray-100 rounded-lg my-3 p-2 items-center cursor-pointer">- Polynomial regression</li>
+                <li className="bg-gray-300 hover:bg-gray-100 rounded-lg my-3 p-2 items-center cursor-pointer">- Logistic regression</li>
+                <li className="bg-gray-300 hover:bg-gray-100 rounded-lg my-3 p-2 items-center cursor-pointer">- Regularization</li>
               </ul>
             </li>
             <li>
               Unsupervised learning:
               <ul>
-                <li>- Clustering</li>
-                <li>- Anomaly Detection</li>
-                <li>- Recommender Systems</li>
-                <li>- Reinforcement Learning</li>
+                <li className="bg-gray-300 hover:bg-gray-100 rounded-lg my-3 p-2 items-center cursor-pointer">- Clustering</li>
+                <li className="bg-gray-300 hover:bg-gray-100 rounded-lg my-3 p-2 items-center cursor-pointer">- Anomaly Detection</li>
+                <li className="bg-gray-300 hover:bg-gray-100 rounded-lg my-3 p-2 items-center cursor-pointer">- Recommender Systems</li>
+                <li className="bg-gray-300 hover:bg-gray-100 rounded-lg my-3 p-2 items-center cursor-pointer">- Reinforcement Learning</li>
               </ul>
             </li>
             <li>
               Advanced Learning Algorithms:
               <ul>
-                <li>- Neural Networks</li>
-                <li>- Training Neural Networks using tensorflow</li>
-                <li>- Bias, Variance</li>
-                <li>- Decision tree</li>
+                <li className="bg-gray-300 hover:bg-gray-100 rounded-lg my-3 p-2 items-center cursor-pointer">- Neural Networks</li>
+                <li className="bg-gray-300 hover:bg-gray-100 rounded-lg my-3 p-2 items-center cursor-pointer">- Training Neural Networks using tensorflow</li>
+                <li className="bg-gray-300 hover:bg-gray-100 rounded-lg my-3 p-2 items-center cursor-pointer">- Bias, Variance</li>
+                <li className="bg-gray-300 hover:bg-gray-100 rounded-lg my-3 p-2 items-center cursor-pointer">- Decision tree</li>
               </ul>
             </li>
           </ul>
