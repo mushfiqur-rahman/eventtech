@@ -1,25 +1,28 @@
 {
-  "short_name": "EventTechBD",
+  "id": "1",
+  "short_name": "EventTechAPP",
   "name": "frontend",
   "icons": [
     {
-      "src": "favicon.png",
+      "src": "/icons/favicon.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo.png",
+      "src": "/icons/logo.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x192",
+      "purpose": "any maskable"
     },
     {
-      "src": "logo512.png",
+      "src": "/icons/logo512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "theme_color": "#FFFFFF",
+  "background_color": "#FFFFFF",
+  "start_url": "/",
   "display": "standalone",
-  "theme_color": "#FE8D28",
-  "background_color": "#ffffff"
+  "orientation": "portrait"
 }
