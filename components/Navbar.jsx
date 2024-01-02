@@ -52,7 +52,7 @@ const Navbar = () => {
     if (currentTheme === "dark") {
       return (
         <BsSunFill
-          className="w-7 h-7 text-[#FE8D28]"
+          className="w-6 h-6 text-[#FE8D28]"
           role="button"
           onClick={() => setTheme("light")}
         />
@@ -60,7 +60,7 @@ const Navbar = () => {
     } else {
       return (
         <BsMoonFill
-          className="w-7 h-7"
+          className="w-6 h-6"
           role="button"
           onClick={() => setTheme("dark")}
         />
