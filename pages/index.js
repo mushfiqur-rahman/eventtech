@@ -16,7 +16,10 @@ export default function Home() {
           name="keywords"
           content="facebook boosting, youtube boosting,google boosting, software development in jashore,skill development,basis, Jashore it park,ecab,digital bangladesh,digital jashore,digital marketing in jashore,ইভেন্টটেক,কেনারহাট"
         ></meta>
-        <meta name="description" content="Innovative IT Solution..." />
+        <meta
+          name="description"
+          content="Event Tech is a Bangladesh based IT system integration, professional service and software development venture. As a privately owned organization, Event Tech ..."
+        />
         <meta property="og:title" content="software company" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
         <link rel="manifest" href="/manifest.json" />
