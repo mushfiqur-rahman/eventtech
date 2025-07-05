@@ -5,12 +5,27 @@
 
 version: 2
 updates:
-  - package-ecosystem: "npm" # Change based on your project (npm, yarn, etc.)
-    directory: "/" # Root directory of your project
+  - package-ecosystem: "npm"
+    directory: "/"
     schedule:
-      interval: "daily" # Options: daily, weekly, monthly
-    open-pull-requests-limit: 5
-    rebase-strategy: "auto"
-    commit-message:
-      prefix: "chore"
-      include: "scope"
+      interval: "weekly"
+    allow:
+      - dependency-type: "production"
+    ignore:
+      - dependency-type: "development"
+
+
+
+
+
+
+
+
+
+
+
+Ask ChatGPT
+
+Select 55 more words to run Humanizer.
+
+
